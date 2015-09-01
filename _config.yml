@@ -9,5 +9,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.cgnp.xyz" # the base hostname & protocol for your site
 twitter_username: cgnp
 
+sass:
+  style: compressed
+
 # Build settings
 markdown: kramdown
